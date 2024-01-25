@@ -21,7 +21,7 @@ qc_lookup_repo_path=~/host_repos/qc-lookup/qartod/
 stream_engine_path=~/host_repos/stream_engine/scripts/
 ####END MODIFY#####
 
-for i in $(find . -mindepth 1 -type d -name climatology_tables -prune -o -type d -print); do 
+for i in $(find . -mindepth 1 -type d \( -path ./velpt -o -name climatology_tables \) -prune -o -type d -print); do 
     echo "Processing QARTOD tests in $i"; 
     cd "$i"
     find . -type d -name climatology_tables -prune -o -type f -name "*.csv" -print -exec python ${stream_engine_path}load_qartod.py {} \;
