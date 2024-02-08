@@ -1,5 +1,6 @@
 #!/bin/bash
-####MODIFY AS NEEDED#####
+# To be run from qc-lookup/qartod directory.
+# Modify the ~/host_repos/ directory below to 
 # Load database connection information from .env file.
 # Values read in by the load_qartod.py script:
 #   POSTGRES_HOSTNAME
@@ -19,7 +20,6 @@ qc_lookup_repo_path=~/host_repos/qc-lookup/qartod/
 
 #Probably should be /opt/miniconda2/envs/engine/stream_engine/sripts/ for release
 stream_engine_path=~/host_repos/stream_engine/scripts/
-####END MODIFY#####
 
 for i in $(find . -mindepth 1 -type d \( -path ./velpt -o -name climatology_tables \) -prune -o -type d -print); do 
     echo "Processing QARTOD tests in $i"; 
