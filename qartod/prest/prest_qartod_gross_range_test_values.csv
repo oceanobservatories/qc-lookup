@@ -1,0 +1,7 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SLBS,MJ01A,06-PRESTA101,prest_real_time,{'inp': 'seafloor_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 4137]}}}",Sensor min/max derived from vendor documentation,
+RS01SLBS,MJ01A,06-PRESTA101,prest_real_time,{'inp': 'absolute_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 6000]}}}",Sensor min/max derived from vendor documentation,
+RS03AXBS,MJ03A,06-PRESTA301,prest_real_time,{'inp': 'seafloor_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 4137]}}}",Sensor min/max derived from vendor documentation,
+RS03AXBS,MJ03A,06-PRESTA301,prest_real_time,{'inp': 'absolute_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 6000]}}}",Sensor min/max derived from vendor documentation,
+RS01SUM1,LJ01B,09-PRESTB102,prest_real_time,{'inp': 'seafloor_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 4137]}}}",Sensor min/max derived from vendor documentation,
+RS01SUM1,LJ01B,09-PRESTB102,prest_real_time,{'inp': 'absolute_pressure'},"{'qartod': {'gross_range_test': {'fail_span': [0, 6000]}}}",Sensor min/max derived from vendor documentation,

@@ -1,0 +1,4 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03INT1,MJ03C,07-D1000A301,d1000_sample,{'inp': 'temperature1'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max derived from prior global range values,
+RS03INT1,MJ03C,07-D1000A301,d1000_sample,{'inp': 'temperature2'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max derived from prior global range values,
+RS03INT1,MJ03C,07-D1000A301,d1000_sample,{'inp': 'temperature3'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max derived from prior global range values,

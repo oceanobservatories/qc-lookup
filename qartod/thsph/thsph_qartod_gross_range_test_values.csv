@@ -1,0 +1,13 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_th'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_tl'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_tch'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_tcl'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_int'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_temp_ref'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_ph'},"{'qartod': {'gross_range_test': {'fail_span': [7.3, 8.5]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_ph_acl'},"{'qartod': {'gross_range_test': {'fail_span': [7.3, 8.5]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_ph_noref'},"{'qartod': {'gross_range_test': {'fail_span': [7.3, 8.5]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_ph_noref_acl'},"{'qartod': {'gross_range_test': {'fail_span': [7.3, 8.5]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_sulfide'},"{'qartod': {'gross_range_test': {'fail_span': [0, 600]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,09-THSPHA301,thsph_sample,{'inp': 'thsph_hydrogen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 600]}}}",Sensor min/max based on OOI 1.0 global range specifications,
