@@ -1,0 +1,5 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03INT1,MJ03C,10-TRHPHA301,trhph_sample,{'inp': 'vent_fluid_temperature'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,10-TRHPHA301,trhph_sample,{'inp': 'vent_fluid_chloride_conc'},"{'qartod': {'gross_range_test': {'fail_span': [0, 600]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,10-TRHPHA302,trhph_sample,{'inp': 'vent_fluid_temperature'},"{'qartod': {'gross_range_test': {'fail_span': [0, 400]}}}",Sensor min/max based on OOI 1.0 global range specifications,
+RS03INT1,MJ03C,10-TRHPHA302,trhph_sample,{'inp': 'vent_fluid_chloride_conc'},"{'qartod': {'gross_range_test': {'fail_span': [0, 600]}}}",Sensor min/max based on OOI 1.0 global range specifications,
