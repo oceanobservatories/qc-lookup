@@ -1,0 +1,4 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE04OSPD,DP01B,03-FLCDRA103,dpc_flcdrtd_instrument_recovered,{'inp': 'flcdr_x_mmp_cds_fluorometric_cdom'},"{'qartod': {'gross_range_test': {'fail_span': [0, 375.0]}}}","Sensor min/max derived from vendor documentation (ECO Triplet-W Manual, rev B 2017-07)",
+RS01SBPD,DP01A,03-FLCDRA102,dpc_flcdrtd_instrument_recovered,{'inp': 'flcdr_x_mmp_cds_fluorometric_cdom'},"{'qartod': {'gross_range_test': {'fail_span': [0, 375.0]}}}","Sensor min/max derived from vendor documentation (ECO Triplet-W Manual, rev B 2017-07)",
+RS03AXPD,DP03A,03-FLCDRA302,dpc_flcdrtd_instrument_recovered,{'inp': 'flcdr_x_mmp_cds_fluorometric_cdom'},"{'qartod': {'gross_range_test': {'fail_span': [0, 375.0]}}}","Sensor min/max derived from vendor documentation (ECO Triplet-W Manual, rev B 2017-07)",

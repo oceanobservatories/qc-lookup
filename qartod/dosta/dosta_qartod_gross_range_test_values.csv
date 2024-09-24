@@ -374,3 +374,9 @@ CE05MOAS,G1153,04-DOSTAM000,dosta_abcdjm_glider_instrument,{'inp': 'sci_oxy4_oxy
 CE05MOAS,G1153,04-DOSTAM000,dosta_abcdjm_glider_instrument,{'inp': 'sci_abs_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
 CE05MOAS,G1153,04-DOSTAM000,dosta_abcdjm_glider_recovered,{'inp': 'sci_oxy4_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
 CE05MOAS,G1153,04-DOSTAM000,dosta_abcdjm_glider_recovered,{'inp': 'sci_abs_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
+CE04OSPD,DP01B,06-DOSTAD105,dpc_optode_instrument_recovered,{'inp': 'dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
+CE04OSPD,DP01B,06-DOSTAD105,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
+RS01SBPD,DP01A,06-DOSTAD104,dpc_optode_instrument_recovered,{'inp': 'dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
+RS01SBPD,DP01A,06-DOSTAD104,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
+RS03AXPD,DP03A,06-DOSTAD304,dpc_optode_instrument_recovered,{'inp': 'dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
+RS03AXPD,DP03A,06-DOSTAD304,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'fail_span': [0, 500]}}}",Sensor min/max derived from vendor documentation,
