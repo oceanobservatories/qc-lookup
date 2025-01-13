@@ -1,7 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CP10CNSM,RID26,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 3]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
-CP10CNSM,MFD36,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 125]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
-CP11NOSM,RID26,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 3]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
-CP11NOSM,MFD36,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 125]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
-CP11SOSM,RID26,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 3]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
-CP11SOSM,MFD36,03-TURBDA000,turbd_a_instrument,{'inp': 'turbidity'},"{'qartod': {'gross_range_test': {'fail_span': [0, 125]}}}",Sensor min/max derived from vendor documentation.,User range to be determined.
